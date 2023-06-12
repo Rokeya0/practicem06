@@ -1,19 +1,9 @@
 # practicem06
 
-A new Flutter project.
+a single page that displays a list of items.
 
-## Getting Started
+## Screenshort
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 
 <img width="960" alt="Screenshot_6" src="https://github.com/Rokeya0/practicem06/assets/135530632/91b4107a-cbb7-4723-8e63-4a8232e93c42">
